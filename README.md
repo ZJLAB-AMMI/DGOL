@@ -1,5 +1,7 @@
 # Data Generation-based Operator Learning for Solving Partial Differential Equations on Unbounded Domains
 The code repository for the paper https://doi.org/10.48550/arXiv.2309.02446.
+[https://github.com/JihongWang/DGOL](Code)
+
 ## Abstract
 Wave propagation problems are typically formulated as partial differential equations (PDEs) on unbounded domains to be solved.
     The classical approach to solving such problems involves truncating them to problems on bounded domains by designing the artificial boundary conditions or perfectly matched layers, which typically require significant effort, and the presence of nonlinearity in the equation makes such designs even more challenging. 
